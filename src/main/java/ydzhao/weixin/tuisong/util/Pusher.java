@@ -17,10 +17,10 @@ public class Pusher {
     /**
      * 测试号的appId和secret
      */
-    private static String appId = "xxx";
-    private static String secret = "6e2a329fd59e83fb87f013cd3a405137";
+       private static String appId = "wxc4be79da770998c9";
+    private static String secret = "3436629c7d06be86481b74d10ab871ce";
     //模版id
-    private static String templateId = "BmHHbIFsP7SqjebQ5rgDRjBxPtRcDxgrvqyiAojgrh8";
+    private static String templateId = "ssNyLs4wz1-z_OaAsaJSYHCaVv5HQU58FTfjzJGTSJg";
 
     public static void push(String openId){
         //1，配置
