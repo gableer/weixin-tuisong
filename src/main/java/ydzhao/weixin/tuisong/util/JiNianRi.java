@@ -13,19 +13,19 @@ public class JiNianRi {
     /**
      * 恋爱
      */
-    static String lianAi = "2018-05-21";
+    static String lianAi = "2020-05-06";
     /**
      * 领证
      */
-    static String linZheng = "2022-03-19";
+    static String linZheng = "2022-02-22";
     /**
      * 结婚
      */
-    static String jieHun = "2022-07-08";
+    static String jieHun = "2022-01-13";
     /**
      * 生日
      */
-    static String shengRi = "2023-03-02";
+    static String shengRi = "2023-01-03";
 
     private static SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
 
